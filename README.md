@@ -24,7 +24,12 @@ Light popup manager to enable, disable, uninstall extensions, applications quick
 Wappalyzer uncovers the technologies used on websites. It detects content management systems, eCommerce platforms, web servers, JavaScript frameworks, analytics tools and many more.
   - [Chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr)
   - [Firefox](https://addons.mozilla.org/fr/firefox/addon/wappalyzer/)
-  
+
+## ModHeader
+Add and modify the HTTP request headers and response headers.
+  - [Chrome](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/modify-headers/)
+
 ## Imagus
 Enlarge thumbnails, and show images/videos from links with a mouse hover.
   - [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
