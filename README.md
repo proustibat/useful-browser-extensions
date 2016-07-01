@@ -48,6 +48,10 @@ Fully featured API Tester App for Chrome.
 Save up to 95% memory and reduce tab clutter. Click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once.
   - [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
   - [Firefox](https://addons.mozilla.org/fr/firefox/addon/onetab/)
+
+## Strong Password Generator
+With this extension you can easily generate strong and secure passwords. You can specify password length and used chars (lowercase, uppercase, numbers or custom). Generated password you can copy directly to your clipboard, or generate more of them and copy them all at one time (or select only which of them you want).
+  - [Chrome](https://chrome.google.com/webstore/detail/strong-password-generator/emehklffcaphknhhfhadkjhpfapcbpco)
   
 ## Web Developer
 Edit cookies, Disable/enable styles, javascript .Adds a toolbar button with various web developer tools.
