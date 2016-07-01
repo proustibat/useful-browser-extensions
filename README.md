@@ -19,6 +19,11 @@ Some sites take too long to load. This can be due to trackers weighing your syst
 ## Extensions Manager
 Light popup manager to enable, disable, uninstall extensions, applications quickly and easy. 
   - [Chrome](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)
+
+## Wappalyzer 
+Wappalyzer uncovers the technologies used on websites. It detects content management systems, eCommerce platforms, web servers, JavaScript frameworks, analytics tools and many more.
+  - [Chrome](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/wappalyzer/)
   
 ## Imagus
 Enlarge thumbnails, and show images/videos from links with a mouse hover.
