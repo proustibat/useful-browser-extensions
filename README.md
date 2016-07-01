@@ -29,7 +29,11 @@ Enlarge thumbnails, and show images/videos from links with a mouse hover.
 JSONView port for Chrome: validate and view JSON documents.
   - [Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
   - [Firefox](https://addons.mozilla.org/fr/firefox/addon/jsonview/)
-  
+
+## Postman
+Fully featured API Tester App for Chrome.
+  - [Chrome](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+
 ## OneTab
 Save up to 95% memory and reduce tab clutter. Click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once.
   - [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
