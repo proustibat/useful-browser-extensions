@@ -3,15 +3,18 @@
 ## Adblock Plus
 Adblock Plus is the most popular ad blocker ever, and also supports websites by not blocking unobtrusive ads by default (configurable).
   - [Chrome](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/adblock-plus/)
 
 ## Clear Cache Shortcut
 This is a simple extension that allows you to clear your cache with a single click of a button. You can either click the icon, or if you prefer, type in the browser address bar, "cache" => [hit the tab key] => "c" => [hit the enter key] to clear your cache. This extension uses the BrowsingData API which is supported by chrome versions 19+. 
   - [Chrome](https://chrome.google.com/webstore/detail/clear-cache-shortcut/jnajhcakejgchhbjlchkfmdidgjefleg)
+  - [Empty Cache Button](https://addons.mozilla.org/fr/firefox/addon/empty-cache-button/) is an equivalent on Firefox.
 
 ## Ghostery
 Ghostery gives you the control to make informed decisions about the personal data you share with the trackers on the sites you visit.
 Some sites take too long to load. This can be due to trackers weighing your system down.  Ghostery allows you to block the offending trackers and significantly speed up your browsing.
   - [Chrome](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/ghostery/)
 
 ## Extensions Manager
 Light popup manager to enable, disable, uninstall extensions, applications quickly and easy. 
@@ -20,30 +23,37 @@ Light popup manager to enable, disable, uninstall extensions, applications quick
 ## Imagus
 Enlarge thumbnails, and show images/videos from links with a mouse hover.
   - [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/)
 
 ## JSONView
 JSONView port for Chrome: validate and view JSON documents.
   - [Chrome](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/jsonview/)
   
 ## OneTab
 Save up to 95% memory and reduce tab clutter. Click the OneTab icon to convert all of your tabs into a list. When you need to access the tabs again, you can either restore them individually or all at once.
   - [Chrome](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/onetab/)
   
 ## Web Developer
 Edit cookies, Disable/enable styles, javascript .Adds a toolbar button with various web developer tools.
   - [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/web-developer/)
   
 ## Performance-Analyser
 Get insight into the performance of the website in the current tab - sort of a mini live version of WebPageTest
   - [Chrome](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/performance-analyser/)
   
 ## WhatFont
 The easiest way to identify fonts on web pages.
   - [Chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+  - [Font-Finder](https://addons.mozilla.org/fr/firefox/addon/font-finder/) could be an equivalent for Firefox, it's just a little bit different
 
 ## Web Timer
 Keep track of how you spend your time on the web.
   - [Chrome](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim)
+  - [Mind the Time](https://addons.mozilla.org/fr/firefox/addon/mind-the-time/) is an equivalent for Firefox
   
 ___
 
