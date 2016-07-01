@@ -88,3 +88,10 @@ ___
 
 ## Dewey Bookmarks
 Dewey adds custom tags, screenshots, and smarter search to your Chrome bookmarks: [get it](https://chrome.google.com/webstore/detail/dewey-bookmarks/aahpfefkmihhdabllidnlipghcjgpkdm)
+
+___
+
+## Nimbus Screenshot and Screencast
+Capture Web page and edit screenshots. Record screencasts - record video from your screen.
+  - [Chrome](https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/nimbus-screenshot/)
