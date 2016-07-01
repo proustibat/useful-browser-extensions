@@ -30,6 +30,11 @@ Add and modify the HTTP request headers and response headers.
   - [Chrome](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
   - [Firefox](https://addons.mozilla.org/fr/firefox/addon/modify-headers/)
 
+## Nimbus Screenshot and Screencast
+Capture Web page and edit screenshots. Record screencasts - record video from your screen.
+  - [Chrome](https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj)
+  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/nimbus-screenshot/)
+
 ## Imagus
 Enlarge thumbnails, and show images/videos from links with a mouse hover.
   - [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
@@ -91,7 +96,4 @@ Dewey adds custom tags, screenshots, and smarter search to your Chrome bookmarks
 
 ___
 
-## Nimbus Screenshot and Screencast
-Capture Web page and edit screenshots. Record screencasts - record video from your screen.
-  - [Chrome](https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj)
-  - [Firefox](https://addons.mozilla.org/fr/firefox/addon/nimbus-screenshot/)
+
