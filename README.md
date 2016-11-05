@@ -97,4 +97,4 @@ Dewey adds custom tags, screenshots, and smarter search to your Chrome bookmarks
 ___
 
 # Wakatime
-
+Quantify your coding
